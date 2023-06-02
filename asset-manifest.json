@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactMeals/static/css/main.24457a23.css",
+    "main.js": "/ReactMeals/static/js/main.29857ab6.js",
+    "static/js/787.6425a746.chunk.js": "/ReactMeals/static/js/787.6425a746.chunk.js",
+    "static/media/banner.jpg": "/ReactMeals/static/media/banner.c7dd64cbc61b9e1f0e37.jpg",
+    "static/media/slick.svg": "/ReactMeals/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ReactMeals/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ReactMeals/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ReactMeals/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ReactMeals/index.html",
+    "main.24457a23.css.map": "/ReactMeals/static/css/main.24457a23.css.map",
+    "main.29857ab6.js.map": "/ReactMeals/static/js/main.29857ab6.js.map",
+    "787.6425a746.chunk.js.map": "/ReactMeals/static/js/787.6425a746.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24457a23.css",
+    "static/js/main.29857ab6.js"
+  ]
+}
